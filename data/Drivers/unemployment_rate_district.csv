@@ -1,0 +1,144 @@
+﻿ID,District,Unemployment
+101,Affoltern,0.026
+102,Andelfingen,0.02
+103,Bülach,0.032
+104,Dielsdorf,0.034
+105,Hinwil,0.029
+106,Horgen,0.034
+107,Meilen,0.031
+108,Pfäffikon,0.03
+109,Uster,0.032
+110,Winterthur,0.029
+111,Dietikon,0.038
+112,Zürich,0.037
+243,Seeland,0.039
+246,Bern-Mittelland,0.042
+244,Oberaargau,0.021
+242,Biel/Bienne,0.024
+245,Emmental,0.014
+241,Jura bernois,0.027
+249,Frutigen-Niedersimmental,0.021
+250,Interlaken-Oberhasli,0.014
+247,Thun,0.012
+248,Obersimmental-Saanen,0.016
+316,Entlebuch,0.035
+313,Hochdorf,0.027
+312,Luzern-Land,0.028
+311,Luzern-Stadt,0.019
+314,Sursee,0.021
+315,Willisau,0.014
+400,Kt. Uri,0.014
+501,Einsiedeln,0.018
+502,Gersau,0.022
+503,Höfe,0.03
+504,Küssnacht (SZ),0.021
+505,March,0.027
+506,Schwyz,0.019
+600,Kt. Obwalden,0.01
+700,Kt. Nidwalden,0.02
+800,Kt. Glarus,0.021
+900,Kt. Zug,0.031
+1001,La Broye,0.04
+1002,La Glâne,0.039
+1003,La Gruyère,0.041
+1004,La Sarine,0.048
+1005,See / Lac,0.028
+1006,Sense,0.023
+1007,La Veveyse,0.043
+1101,Gäu,0.02
+1102,Thal,0.027
+1103,Bucheggberg,0.025
+1104,Dorneck,0.022
+1105,Gösgen,0.035
+1106,Wasseramt,0.028
+1107,Lebern,0.036
+1108,Olten,0.036
+1109,Solothurn,0.027
+1110,Thierstein,0.024
+1200,Kt. Basel-Stadt,0.044
+1301,Arlesheim,0.034
+1302,Laufen,0.034
+1303,Liestal,0.034
+1304,Sissach,0.018
+1305,Waldenburg,0.032
+1401,Oberklettgau,0.021
+1402,Reiat,0.028
+1403,Schaffhausen,0.039
+1404,Schleitheim,0.039
+1405,Stein,0.039
+1406,Unterklettgau,0.038
+1501,Hinterland,0.027
+1502,Mittelland,0.023
+1503,Vorderland,0.025
+1600,Kt. Appenzell i.Rh.,0.014
+1721,St. Gallen,0.033
+1722,Rorschach,0.04
+1723,Rheintal,0.033
+1724,Werdenberg,0.031
+1725,Sarganserland,0.016
+1726,See-Gaster,0.023
+1727,Toggenburg,0.019
+1728,Wil,0.031
+1841,Albula,0.015
+1842,Bernina,0.015
+1850,Surselva,0.013
+1851,Viamala,0.015
+1844,Imboden,0.018
+1843,Engiadina B./Val Müstair,0.017
+1846,Maloja,0.049
+1847,Moesa,0.028
+1849,Prättigau / Davos,0.011
+1848,Plessur,0.007
+1845,Landquart,0.013
+1901,Aarau,0.033
+1902,Baden,0.036
+1903,Bremgarten,0.032
+1904,Brugg,0.033
+1905,Kulm,0.032
+1906,Laufenburg,0.024
+1907,Lenzburg,0.029
+1908,Muri,0.028
+1909,Rheinfelden,0.035
+1910,Zofingen,0.036
+1911,Zurzach,0.035
+2011,Arbon,0.038
+2015,Weinfelden,0.025
+2012,Frauenfeld,0.03
+2014,Münchwilen,0.028
+2013,Kreuzlingen,0.028
+2101,Bellinzona,0.054
+2102,Blenio,0.028
+2103,Leventina,0.032
+2104,Locarno,0.056
+2105,Lugano,0.051
+2106,Mendrisio,0.059
+2107,Riviera,0.056
+2108,Vallemaggia,0.035
+2221,Aigle,0.056
+2227,Morges,0.06
+2228,Nyon,0.037
+2222,Broye-Vully,0.048
+2223,Gros-de-Vaud,0.061
+2224,Jura-Nord vaudois,0.048
+2226,Lavaux-Oron,0.046
+2225,Lausanne,0.054
+2229,Ouest lausannois,0.061
+2230,Riviera-Pays-d'Enhaut,0.062
+2301,Brig,0.01
+2302,Conthey,0.037
+2303,Entremont,0.024
+2304,Goms,0.024
+2305,Hérens,0.024
+2306,Leuk,0.026
+2307,Martigny,0.043
+2308,Monthey,0.043
+2309,Raron,0.014
+2310,Saint-Maurice,0.039
+2311,Sierre,0.042
+2312,Sion,0.042
+2313,Visp,0.011
+2400,Cant. de Neuchâtel,0.051
+2500,Cant. de Genève,0.081
+2601,Delémont,0.048
+2602,Les Franches-Montagnes,0.036
+2603,Porrentruy,0.044
